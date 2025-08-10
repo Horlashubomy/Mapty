@@ -22,4 +22,4 @@ Built as part of a coding exercise. Don’t claim as your own.
 
 ---
 
-👨‍💻 **Author:** [Lawal Olasubomi](https://x.com/profcruise_)
+👨‍💻 **Author:** [Lawal Olasubomi](https://x.com/profcruis)
