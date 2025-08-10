@@ -1,6 +1,6 @@
 # Mapty Project
 
-🚀 **Live Demo:** [Click here to view the live site on Netlify](https://your-project-name.netlify.app)
+🚀 **Live Demo:** [Click here to view the live site on Netlify](https://olasubomimapty.netlify.app/)
 
 This is a workout tracking app built with HTML, CSS, and JavaScript. It allows users to log workouts on a map using geolocation.
 
