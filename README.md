@@ -12,8 +12,7 @@ This is a workout tracking app built with HTML, CSS, and JavaScript. It allows u
 
 ## Screenshots
 
-![screenshot](<img width="1366" height="768" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/72b180fe-6456-45ba-b90a-628028bc98bd" />
-)
+![screenshot](Screenshot (97).png)
 
 ---
 
